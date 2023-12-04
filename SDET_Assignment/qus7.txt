@@ -1,0 +1,6 @@
+git clone https://github.com/your_username/SDET.git
+cd SDET
+git checkout -b comprehensive_basic_3
+git add .
+git commit -m "Implement comprehensive basic programs"
+git push origin comprehensive_basic_3
